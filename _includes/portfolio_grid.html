@@ -7,23 +7,5 @@
                     <h3 class="section-subheading text-muted">Start your search today!</h3>
                 </div>
             </div>
-            <div class="row">
-            {% for post in site.posts %}
-                <div class="col-md-4 col-sm-6 Search-item">
-                    <a href="#SearchModal{{ post.modal-id }}" class="Search-link" data-toggle="modal">
-                        <div class="Search-hover">
-                            <div class="Search-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/Search/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
-                    <div class="Search-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
-                    </div>
-                </div>
-            {% endfor %}
-            </div>
         </div>
     </section>
