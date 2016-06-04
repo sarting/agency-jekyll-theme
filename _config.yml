@@ -15,25 +15,25 @@ people:
   position: Lead Realtor
   social:
     - title: facebook
-      url: #https://www.facebook.com/brenda.reid.brown
+      url: https://www.facebook.com/brenda.reid.brown
     - title: linkedin
-      url: #https://www.linkedin.com/in/brendabrownrealtor
+      url: https://www.linkedin.com/in/brendabrownrealtor
 
 - name: Ting Phan
   pic: 2
   position: Lead Developer
   social:
     - title: facebook
-      url: #https://www.facebook.com/ting.phan.3
+      url: https://www.facebook.com/ting.phan.3
     - title: linkedin
-      url: #https://www.linkedin.com/in/thanh-phan-b7022115
+      url: https://www.linkedin.com/in/thanh-phan-b7022115
 
 - name: Sarah Reid
   pic: 3
   position: Lead Processor
   social:
     - title: facebook
-      url: #https://www.facebook.com/brenda.reid.brown
+      url: https://www.facebook.com/brenda.reid.brown
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
