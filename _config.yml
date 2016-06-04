@@ -10,38 +10,30 @@ description: "Brenda Brown Realtor for Homes in Alabama, homes4u, homes for you,
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Brenda Brown
   pic: 1
-  position: Lead Designer
+  position: Lead Realtor
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: #https://www.facebook.com/brenda.reid.brown
     - title: linkedin
-      url: #
+      url: #https://www.linkedin.com/in/brendabrownrealtor
 
-- name: Diana Petersen
-  pic: 3
+- name: Ting Phan
+  pic: 2
   position: Lead Developer
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: #https://www.facebook.com/ting.phan.3
+    - title: linkedin
+      url: #https://www.linkedin.com/in/thanh-phan-b7022115
+
+- name: Sarah Reid
+  pic: 3
+  position: Lead Processor
+  social:
+    - title: facebook
+      url: #https://www.facebook.com/brenda.reid.brown
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -58,8 +50,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 3434 Bradley Road
+  - line: Wetumpka, AL 36092
 
 # Build settings
 markdown: kramdown
