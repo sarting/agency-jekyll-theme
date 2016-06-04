@@ -42,7 +42,7 @@ $(function() {
                 },
                 error: function() {
                     // Fail message
-                    $('#success').html("<div class='alert alert-success'>");
+                    $('#success').html("<div class='alert alert-danger'>");
                     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
                     $('#success > .alert-danger').append("<strong>Thank you " + firstName + ", your message has been sent! I will contact you soon.");
